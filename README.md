@@ -1,2 +1,2 @@
 # ews
-Elma Web Service - Maven, eclipse, jaxws (SOAP)
+Elma Web Service - Java, Maven, eclipse, JAX-WS (SOAP web services)
